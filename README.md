@@ -33,6 +33,13 @@ them step by step.
 
 🚀 Highlight Projects
 
+🔹 Smart parking system (Java / Spring Boot)
+A backend application built using Java and Spring Boot to manage parking slots in a smart parking system.
+This project provides RESTful APIs to create parking slots, allocate and release vehicles, and check slot availability.
+It follows a clean Controller–Service–Repository layered architecture and uses an H2 in-memory database for quick setup and testing.
+
+🔗 https://github.com/thanushv2426/Smart-parking-system
+
 🔹 Cryptocurrency Price Tracker (Java / Spring Boot)  
 A backend application that fetches real-time cryptocurrency prices from the
 CoinGecko API, stores them in a database, and exposes RESTful APIs for querying
